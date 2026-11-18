@@ -7,8 +7,14 @@
 - **Phiên bản cấu trúc:** 1.0.0
 - **Ngày khởi tạo kho:** 2026-11-18
 - **Ngôn ngữ chính:** Tiếng Việt; giữ thuật ngữ kỹ thuật tiếng Anh khi cần.
-- **Trạng thái:** Khung quản trị và lộ trình đã được khởi tạo; các bài học chuyên đề sẽ được nhập theo từng đợt và phải qua kiểm tra chất lượng.
+- **Trạng thái:** Đã nhập đợt 1 gồm nền tảng Web/HTTP, HTML, CSS và JavaScript cơ bản/DOM; các nhóm còn lại sẽ được nhập theo từng đợt.
 - **Nguyên tắc:** Không xóa bản cũ khi chưa có bản thay thế; không ghi nhận kiểm thử nếu chưa chạy; không bịa nguồn hoặc phiên bản.
+
+## Tiến độ nhập kiến thức
+
+- [Danh mục bài học](knowledge/INDEX.md)
+- Đợt 1: 5 bài học nền tảng đã được thêm vào repository.
+- Các ví dụ code ở đợt này chưa được chạy trong môi trường kiểm thử; trạng thái được ghi rõ trong từng tài liệu.
 
 ## Bắt đầu
 
